@@ -5,6 +5,10 @@ function App() {
     //BEM
     <div className="App">
       <h1>Hello guys! lets build amazon store</h1>
+      {/* Header */}
+      {/* Home */}
+      {/* Home */}
+      {/* Footer */}
     </div>
   );
 }
