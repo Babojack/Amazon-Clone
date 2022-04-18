@@ -1,6 +1,6 @@
 import React from "react";
-import './Header.css';
-import SearchIcon from '@mui/icons-material/Search';
+import "./Header.css";
+import SearchIcon from '@material-ui/icons/Search';
 
 function Header() {
   return (
@@ -13,7 +13,7 @@ function Header() {
 
       <div className="header_search">
         <input className="header_searchInput" type="text" />
-        <SearchIcon className="header_searchIcon"/>
+        <SearchIcon className="header_searchIcon" />
         {/* Logo */}
       </div>
 
