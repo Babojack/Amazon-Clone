@@ -23,6 +23,7 @@
 .product-rating {
   display: flex;
   flex-direction: row;
+  justify-content: flex-start;
 }
 
 .product>button {
@@ -34,11 +35,11 @@
 }
 
 
-.product_price {
+.product-price {
   margin-top: 5px;
 }
 
-.product_info {
+.product-info {
   height: 100px;
   margin-bottom: 15px;
 }
