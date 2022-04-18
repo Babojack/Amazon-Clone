@@ -1,6 +1,5 @@
-import './Product.css';
-import React from 'react'
-
+import "./Product.css";
+import React from "react";
 
 function Product() {
   return (
@@ -13,11 +12,14 @@ function Product() {
         </p>
       </div>
       <div className="product-rating">
-        <p></p>
+        <p></p> 
       </div>
-      <img src="https://m.media-amazon.com/images/I/71gGKDXdoPL._AC_SX679_.jpg" alt="" />
+      <img
+        src="https://m.media-amazon.com/images/I/71gGKDXdoPL._AC_SX679_.jpg"
+        alt=""
+      />
     </div>
-  )
+  );
 }
 
-export default Product
+export default Product;
