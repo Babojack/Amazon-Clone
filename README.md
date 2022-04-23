@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 SCREENSHOTS:
 
+![Alt text](amazon-demo.gif)
+
 <img width="1278" alt="Screenshot 2022-04-23 at 13 52 40" src="https://user-images.githubusercontent.com/81936491/164893487-88dcf1d6-0823-49f6-996a-8267d0070fb2.png">
 <img width="1278" alt="Screenshot 2022-04-23 at 13 52 48" src="https://user-images.githubusercontent.com/81936491/164893498-d311d39d-a6d4-4fda-a4f0-b4b781d7c202.png">
 
